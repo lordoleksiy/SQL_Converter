@@ -5,7 +5,7 @@ import traceback
 import sys
 
 """
-   Program for exploring data from xlsm file to  database Microsoft SQL Server
+   Program for transfer data from xlsm file to  database Microsoft SQL Server
    created by Kovtun Oleksiy
 """
 
