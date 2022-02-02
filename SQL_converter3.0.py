@@ -6,6 +6,7 @@ import sys
 
 """
    Program for exploring data from xlsm file to  database Microsoft SQL Server
+   created by Kovtun Oleksiy
 """
 
 err = open("error.txt", "w")
